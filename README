@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4339
+
+Colorful Vim color scheme with 256 color terminal support.
+Designed to have high text readability and optimal visibility of every
+element, and to be eye confortable as well.
+
+Screenshoot:  https://github.com/zeis/vim-kolor#screenshots
+
+Git: https://github.com/zeis/vim-kolor
+
+You can put the following lines before the line "colorscheme kolor" in your vimrc to set options. 
+
+let g:kolor_italic=1 " Enable italic. Default: 1 
+let g:kolor_bold=1 " Enable bold. Default: 1 
+let g:kolor_underlined=0 " Enable underline for 'Underlined'. Default: 0 
+let g:kolor_alternative_matchparen=0 " Gray 'MatchParen' color. Default: 0 
+
+If you want to make a donation, rather, consider to help the Uganda children.
+This color scheme is dedicated to them.
